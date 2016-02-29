@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./p1historiarumqui08polyuoft_0197.png"; bbox 0 0 1734 3184; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 120 830 1511 1098">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 120 830 1511 1098">
+     <span class='ocr_line' id='line_1_1' title="bbox 120 830 1511 951; baseline 0.001 -3"><span class='ocrx_word' id='word_1_1' title='bbox 120 878 539 951; x_wconf 85' lang='lat' dir='ltr'><strong>INDEX</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 625 875 1445 950; x_wconf 81' lang='lat' dir='ltr'>H1sT0Rlcvs</span> <span class='ocrx_word' id='word_1_3' title='bbox 1508 830 1511 833; x_wconf 24' lang='lat'><strong>¹</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 383 1040 1163 1098; baseline -0.004 0"><span class='ocrx_word' id='word_1_4' title='bbox 383 1047 489 1098; x_wconf 88' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 535 1040 1163 1098; x_wconf 79' lang='lat' dir='ltr'>GEOGRAPHICVS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 270 1169 1297 1237">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 270 1169 1297 1237">
+     <span class='ocr_line' id='line_1_3' title="bbox 270 1169 1297 1237; baseline 0 -7"><span class='ocrx_word' id='word_1_6' title='bbox 270 1185 465 1232; x_wconf 83' lang='lat' dir='ltr'><strong>RERVM</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 497 1183 875 1229; x_wconf 79' lang='lat' dir='ltr'><strong>PERSONARVM</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 901 1169 1297 1237; x_wconf 78' lang='lat' dir='ltr'><strong>LOCORVMQVE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 185 1328 1387 1527">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 185 1328 1387 1527">
+     <span class='ocr_line' id='line_1_4' title="bbox 469 1328 1097 1379; baseline -0.003 -15"><span class='ocrx_word' id='word_1_9' title='bbox 469 1330 631 1379; x_wconf 67' lang='lat' dir='ltr'><strong>QVAE</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 672 1331 735 1362; x_wconf 76' lang='lat' dir='ltr'><strong>m</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 779 1328 1097 1376; x_wconf 58' lang='lat' dir='ltr'><strong>namqvus</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 185 1446 1387 1527; baseline -0.002 -20"><span class='ocrx_word' id='word_1_12' title='bbox 185 1447 914 1527; x_wconf 84' lang='lat' dir='ltr'>HISTORIARVM</span> <span class='ocrx_word' id='word_1_13' title='bbox 971 1446 1387 1507; x_wconf 89' lang='lat' dir='ltr'>POLYBII</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 561 1610 1007 1640">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 561 1610 1007 1640">
+     <span class='ocr_line' id='line_1_6' title="bbox 561 1610 1007 1640; baseline -0.007 -1"><span class='ocrx_word' id='word_1_14' title='bbox 561 1610 852 1639; x_wconf 73' lang='lat' dir='ltr'>COMMEMORA</span> <span class='ocrx_word' id='word_1_15' title='bbox 859 1611 1007 1640; x_wconf 77' lang='lat' dir='ltr'>NNNNN</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
